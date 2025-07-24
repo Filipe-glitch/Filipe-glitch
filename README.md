@@ -7,12 +7,12 @@
 
 ---
 
-## About Me 🙋🏻‍♂️
+<h2 align="left"> About Me 🙋🏻‍♂️</h2>
 
-Hi! I'm Filipe, a technology enthusiast and aspiring full-stack developer based in Brazil 🇧🇷.
+Hi! I'm Filipe, a tech enthusiast and aspiring full-stack developer based in Brazil 🇧🇷.
 
 ### I’m passionate about 💡
-- Technology that can help or inspire people
+- Tech that helps or inspires people
 - Mental health, motivation, and social impact
 - Japanese culture, language, and society 🇯🇵
 
@@ -52,24 +52,14 @@ Hi! I'm Filipe, a technology enthusiast and aspiring full-stack developer based 
 ---
 
 ### Statistics 📊
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Filipe-glitch&show_icons=true&theme=tokyonight"
-    />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"  
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-glitch&theme=tokyonight&layout=compact"
-      />
-</p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Filipe-glitch&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-glitch&theme=tokyonight&layout=compact" height="200"/>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiipe-glitch/Filipe-glitch/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake.svg">
 </picture>
