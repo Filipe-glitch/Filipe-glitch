@@ -7,9 +7,9 @@
 
 ---
 
-<h2 align="left"> About Me 🙋🏻‍♂️</h2>
+<h2 align="center"> About Me 🙋🏻‍♂️</h2>
 
-Hi! I'm Filipe, a tech enthusiast and aspiring full-stack developer based in Brazil 🇧🇷.
+- Hi! I'm Filipe, a tech enthusiast and aspiring full-stack developer based in Brazil 🇧🇷.
 
 ### I’m passionate about 💡
 - Tech that helps or inspires people
