@@ -63,3 +63,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### Contact 📬
+
+<p align="left">
+  <a href="mailto:filipe.devrocha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/filipe-rocha-aab616364" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
