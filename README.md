@@ -5,17 +5,26 @@
   <img src="https://img.shields.io/badge/Future%20Full--Stack%20Dev-1E1E2E?style=for-the-badge&logo=stackoverflow&logoColor=DDB6F2" />
 </p>
 
-
 ---
 
-<h3> About Me 😶‍🌫️</h3>
-<p> I love tech 💻 and Japanese culture 🇯🇵. I'm here to build meaningful software that helps people in real ways. </p>
+## About Me 🙋🏻‍♂️
+
+Hi! I'm Filipe, a technology enthusiast and aspiring full-stack developer based in Brazil 🇧🇷.
+
+### I’m passionate about 💡
+- Technology that can help or inspire people
+- Mental health, motivation, and social impact
+- Japanese culture, language, and society 🇯🇵
+
+### Goals 🚀
+- Become a full-stack developer
+- Contribute to meaningful projects with purpose
 
 ---
 
 ### Languages I'm studying 📚
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,7 +36,7 @@
 
 ### Tools and Technologies 🛠️
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -39,6 +48,8 @@
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111111?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+---
 
 ### Statistics 📊
 <p>
