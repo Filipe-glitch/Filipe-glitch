@@ -54,7 +54,7 @@
 
 ### System Analysis & Modeling 🧩
 - UML (Use Case, Class, Sequence Diagrams)
-- Requirements Analysis
+- Requirements Analysis(functional & non-functional)
 - System Design
 - Software Modeling
 
