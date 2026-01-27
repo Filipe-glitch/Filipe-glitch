@@ -22,6 +22,12 @@
 
 ---
 
+### System Analysis & Modeling 🧩
+- UML (Use Case, Class, Sequence Diagrams)
+- Requirements Analysis(functional & non-functional)
+- System Design
+- Software Modeling
+
 ### Languages I'm studying 📚
 
 <p align="left">
@@ -51,12 +57,6 @@
   <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white" />
   <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 </p>
-
-### System Analysis & Modeling 🧩
-- UML (Use Case, Class, Sequence Diagrams)
-- Requirements Analysis(functional & non-functional)
-- System Design
-- Software Modeling
 
 ---
 
