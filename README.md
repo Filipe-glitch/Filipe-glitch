@@ -48,7 +48,15 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111111?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white" />
+  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 </p>
+
+### System Analysis & Modeling 🧩
+- UML (Use Case, Class, Sequence Diagrams)
+- Requirements Analysis
+- System Design
+- Software Modeling
 
 ---
 
