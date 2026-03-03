@@ -63,9 +63,8 @@
 ### Statistics 📊
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Filipe-glitch&show_icons=true&theme=tokyonight&cache_seconds=1800" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-glitch&theme=tokyonight&layout=compact&cache_seconds=1800" height="200"/>
-  <img src="https://gitmystat.vercel.app/api?username=Filipe-glitch&theme=dark"/>
+  <img src="https://github-readme-stats-filipe-six.vercel.app/api?username=Filipe-glitch&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats-filipe-six.vercel.app/api/top-langs/?username=Filipe-glitch&theme=tokyonight&layout=compact" height="200"/>
 </div>
 
 <picture align="center">
