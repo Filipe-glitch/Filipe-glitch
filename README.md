@@ -23,10 +23,17 @@
 ---
 
 ### System Analysis & Modeling 🧩
+
 - UML (Use Case, Class, Sequence Diagrams)
-- Requirements Analysis(functional & non-functional)
+- ER Diagrams (Database Modeling)
+- Requirements Analysis (Functional & Non-functional)
 - System Design
-- Software Modeling
+
+### SQL Studies 📊
+- Database creation (DDL)
+- Data manipulation (INSERT, UPDATE, DELETE)
+- Complex queries (JOIN, GROUP BY, WHERE)
+- Practice with MySQL and SQLite
 
 ### Languages I'm studying 📚
 
@@ -48,11 +55,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111111?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white" />
   <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
