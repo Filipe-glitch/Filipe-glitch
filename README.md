@@ -22,12 +22,13 @@
 
 ---
 
-### System Analysis & Modeling 🧩
+### System Analysis & Engineering 🧩
 
-- UML (Use Case, Class, Sequence Diagrams)
-- ER Diagrams (Database Modeling)
-- Requirements Analysis (Functional & Non-functional)
-- System Design
+- Requirements Engineering: Elicitation of Functional and Non-functional requirements using Brainstorming and Design Sprint methodologies.
+- Advanced Modeling: Expert use of UML (Class, State, Activity diagrams) and BPMN for business process mapping.
+- System Architecture: Solid understanding of Information Systems hierarchy (SPT, ERP, SIG, SAE) and supply chain management (SCM).
+- Standardization: Knowledge in technical standards like 1241-11 and implementation of Blueprints.
+- Prototyping: Experience with Wireframes, Crazy 8s, and high-fidelity prototyping using Figma.
 
 ### SQL Studies 📊
 - Database creation (DDL)
@@ -65,6 +66,9 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/ER%20Modeling-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP%20Systems-1E1E2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20Sprint-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireframing-4CAF50?style=for-the-badge" />
 </p>
 
 ---
