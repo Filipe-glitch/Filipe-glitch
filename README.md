@@ -75,11 +75,9 @@
 
 ### Statistics 📊
 
-### Statistics 📊
-
 <div align="left">
-  <img src="https://github-stats-extended-filipe.vercel.app/api?username=Filipe-glitch&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-stats-extended-filipe.vercel.app/api/top-langs/?username=Filipe-glitch&theme=tokyonight&layout=compact" height="200"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Filipe-glitch&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Filipe-glitch&theme=tokyonight&layout=compact" height="200"/>
 </div>
 
 <picture align="center">
@@ -87,6 +85,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ---
 
