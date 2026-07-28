@@ -75,9 +75,11 @@
 
 ### Statistics 📊
 
+### Statistics 📊
+
 <div align="left">
-  <img src="https://github-readme-stats-filipe-six.vercel.app/api?username=Filipe-glitch&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats-filipe-six.vercel.app/api/top-langs/?username=Filipe-glitch&theme=tokyonight&layout=compact" height="200"/>
+  <img src="https://github-stats-extended-filipe.vercel.app/api?username=Filipe-glitch&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-stats-extended-filipe.vercel.app/api/top-langs/?username=Filipe-glitch&theme=tokyonight&layout=compact" height="200"/>
 </div>
 
 <picture align="center">
