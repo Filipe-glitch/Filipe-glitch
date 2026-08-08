@@ -14,7 +14,6 @@
 ### I’m passionate about 💡
 - Tech that helps or inspires people
 - Mental health, motivation, and social impact
-- Japanese culture, language, and society
 
 ### Goals 🚀
 - Become a full-stack developer
@@ -22,19 +21,20 @@
 
 ---
 
-### System Analysis & Engineering 🧩
+### Systems Engineering & Architecture 🧩
+- **Requirements & Design:** Functional/Non-functional elicitation via Design Sprints, Brainstorming, Wireframing, and Figma prototyping.
+- **Modeling & Standards:** Enterprise process mapping using UML (Class, State, Activity) and BPMN; familiarity with technical standards (e.g., 1241-11).
+- **System Architecture:** Fundamentals of Information Systems (ERP, SCM, MIS) and REST API architecture.
 
-- Requirements Engineering: Elicitation of Functional and Non-functional requirements using Brainstorming and Design Sprint methodologies.
-- Advanced Modeling: Expert use of UML (Class, State, Activity diagrams) and BPMN for business process mapping.
-- System Architecture: Solid understanding of Information Systems hierarchy (SPT, ERP, SIG, SAE) and supply chain management (SCM).
-- Standardization: Knowledge in technical standards like 1241-11 and implementation of Blueprints.
-- Prototyping: Experience with Wireframes, Crazy 8s, and high-fidelity prototyping using Figma.
+### Cloud, DevOps & Tech Stack ☁️
+- **Databases:** Relational database design (DDL/DML), complex queries (JOIN, GROUP BY) using MySQL & SQLite.
+- **Cloud & Infrastructure:** Docker containerization, Google Cloud Platform (GCP), Microsoft Azure, and IT Technical Support.
+- **Emerging Tech & AI:** Generative AI, Prompt Engineering for workflow automation, and Blockchain fundamentals.
 
-### SQL Studies 📊
-- Database creation (DDL)
-- Data manipulation (INSERT, UPDATE, DELETE)
-- Complex queries (JOIN, GROUP BY, WHERE)
-- Practice with MySQL and SQLite
+### Languages 🌐
+- **Portuguese:** Native
+- **English:** Advanced
+- **Spanish:** Basic
 
 ### Languages I'm studying 📚
 
@@ -52,23 +52,29 @@
 ### Tools and Technologies 🛠️
 
 <p align="left">
+  <!-- Version Control & IDEs -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111111?style=for-the-badge&logo=figma&logoColor=white" />
+
+  <!-- Design & Diagrams -->
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white" />
   <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+
+  <!-- Databases & Backend -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/ER%20Modeling-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERP%20Systems-1E1E2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design%20Sprint-FF5722?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireframing-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <!-- Cloud, DevOps & AI -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-7400B8?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-5A189A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
 ---
