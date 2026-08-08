@@ -23,18 +23,13 @@
 
 ### Systems Engineering & Architecture 🧩
 - **Requirements & Design:** Functional/Non-functional elicitation via Design Sprints, Brainstorming, Wireframing, and Figma prototyping.
-- **Modeling & Standards:** Enterprise process mapping using UML (Class, State, Activity) and BPMN; familiarity with technical standards (e.g., 1241-11).
+- **Modeling & Standards:** Enterprise process mapping using UML (Class, State, Activity) and BPMN.
 - **System Architecture:** Fundamentals of Information Systems (ERP, SCM, MIS) and REST API architecture.
 
 ### Cloud, DevOps & Tech Stack ☁️
 - **Databases:** Relational database design (DDL/DML), complex queries (JOIN, GROUP BY) using MySQL & SQLite.
 - **Cloud & Infrastructure:** Docker containerization, Google Cloud Platform (GCP), Microsoft Azure, and IT Technical Support.
 - **Emerging Tech & AI:** Generative AI, Prompt Engineering for workflow automation, and Blockchain fundamentals.
-
-### Languages 🌐
-- **Portuguese:** Native
-- **English:** Advanced
-- **Spanish:** Basic
 
 ### Languages I'm studying 📚
 
