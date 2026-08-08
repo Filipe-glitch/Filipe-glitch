@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to my Git Hub profile ✨</h1>
+<h1 align="center">✨ Welcome to my GitHub profile ✨</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-1E1E2E?style=for-the-badge&logo=googlechrome&logoColor=89DCEB" />
   <img src="https://img.shields.io/badge/Linux%20User-1E1E2E?style=for-the-badge&logo=linux&logoColor=94E2D5" />
@@ -86,7 +86,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Filipe-glitch/Filipe-glitch/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 ---
 
