@@ -72,6 +72,13 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-5A189A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+
+  <!-- Machine Learning & Data Science -->
+  <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
